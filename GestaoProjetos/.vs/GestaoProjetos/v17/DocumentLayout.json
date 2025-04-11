@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\",
+  "WorkspaceRootPath": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5917C51B-5290-4262-9B8F-1ED190C88A98}|GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj|c:\\projetos\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.webui\\gestaoprojetos.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5917C51B-5290-4262-9B8F-1ED190C88A98}|GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj|c:\\users\\claud\\source\\repos\\claudenes\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.webui\\gestaoprojetos.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5917C51B-5290-4262-9B8F-1ED190C88A98}|GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj|solutionrelative:gestaoprojetos.webui\\gestaoprojetos.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{706E1136-6D96-4DF6-916A-A01E737F6D2B}|GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj|c:\\projetos\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.infra.ioc\\gestaoprojetos.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{706E1136-6D96-4DF6-916A-A01E737F6D2B}|GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj|c:\\users\\claud\\source\\repos\\claudenes\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.infra.ioc\\gestaoprojetos.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{706E1136-6D96-4DF6-916A-A01E737F6D2B}|GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj|solutionrelative:gestaoprojetos.infra.ioc\\gestaoprojetos.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8563BB87-E51A-4902-8B87-339B3C02FD02}|GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj|c:\\projetos\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.infra.data\\gestaoprojetos.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8563BB87-E51A-4902-8B87-339B3C02FD02}|GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj|c:\\users\\claud\\source\\repos\\claudenes\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.infra.data\\gestaoprojetos.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8563BB87-E51A-4902-8B87-339B3C02FD02}|GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj|solutionrelative:gestaoprojetos.infra.data\\gestaoprojetos.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01284642-2958-4B95-9689-472AB824EB3A}|GestaoProjetos.API\\GestaoProjetos.API.csproj|c:\\projetos\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.api\\gestaoprojetos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{01284642-2958-4B95-9689-472AB824EB3A}|GestaoProjetos.API\\GestaoProjetos.API.csproj|c:\\users\\claud\\source\\repos\\claudenes\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.api\\gestaoprojetos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{01284642-2958-4B95-9689-472AB824EB3A}|GestaoProjetos.API\\GestaoProjetos.API.csproj|solutionrelative:gestaoprojetos.api\\gestaoprojetos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AD7CBEE-4B21-4166-BC52-F782058E6791}|GestaoProjetos.Domain.Tests\\GestaoProjetos.Domain.Tests.csproj|c:\\projetos\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AD7CBEE-4B21-4166-BC52-F782058E6791}|GestaoProjetos.Domain.Tests\\GestaoProjetos.Domain.Tests.csproj|c:\\users\\claud\\source\\repos\\claudenes\\gestaoprojetos\\gestaoprojetos\\gestaoprojetos.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AD7CBEE-4B21-4166-BC52-F782058E6791}|GestaoProjetos.Domain.Tests\\GestaoProjetos.Domain.Tests.csproj|solutionrelative:gestaoprojetos.domain.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,10 +35,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GestaoProjetos.WebUI",
-              "DocumentMoniker": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
+              "Title": "GestaoProjetos.WebUI.csproj",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
               "RelativeDocumentMoniker": "GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
-              "ToolTip": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
               "RelativeToolTip": "GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -48,10 +48,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GestaoProjetos.Infra.IoC",
-              "DocumentMoniker": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj",
+              "Title": "GestaoProjetos.Infra.IoC.csproj",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj",
               "RelativeDocumentMoniker": "GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj",
-              "ToolTip": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj",
               "RelativeToolTip": "GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -61,10 +61,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GestaoProjetos.Infra.Data",
-              "DocumentMoniker": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj",
+              "Title": "GestaoProjetos.Infra.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj",
               "RelativeDocumentMoniker": "GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj",
-              "ToolTip": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj",
               "RelativeToolTip": "GestaoProjetos.Infra.Data\\GestaoProjetos.Infra.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -74,10 +74,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GestaoProjetos.API",
-              "DocumentMoniker": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.API\\GestaoProjetos.API.csproj",
+              "Title": "GestaoProjetos.API.csproj",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.API\\GestaoProjetos.API.csproj",
               "RelativeDocumentMoniker": "GestaoProjetos.API\\GestaoProjetos.API.csproj",
-              "ToolTip": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.API\\GestaoProjetos.API.csproj",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.API\\GestaoProjetos.API.csproj",
               "RelativeToolTip": "GestaoProjetos.API\\GestaoProjetos.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -88,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "GestaoProjetos.Domain.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain.Tests\\UnitTest1.cs",
               "RelativeToolTip": "GestaoProjetos.Domain.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

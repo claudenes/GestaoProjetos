@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj": {}
+    "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj": {
+    "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj",
         "projectName": "GestaoProjetos.Application",
-        "projectPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj",
+        "projectPath": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\obj\\",
+        "outputPath": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,15 +27,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ccsembratel.pkgs.visualstudio.com/Multicom.Net/_packaging/HubPagamentos/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj"
+              "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj": {
+                "projectPath": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj"
               }
             }
           }
@@ -55,6 +54,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -75,14 +92,14 @@
         }
       }
     },
-    "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj": {
+    "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj",
         "projectName": "GestaoProjetos.Domain",
-        "projectPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj",
+        "projectPath": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\GestaoProjetos.Domain.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +115,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ccsembratel.pkgs.visualstudio.com/Multicom.Net/_packaging/HubPagamentos/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

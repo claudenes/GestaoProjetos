@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "H8arDF7A2m0=",
+  "dgSpecHash": "vWKIH51Y3kg=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\claud\\source\\repos\\claudenes\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claud\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.4\\microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
