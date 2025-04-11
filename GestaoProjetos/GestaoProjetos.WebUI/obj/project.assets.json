@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GestaoProjetos.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "GestaoProjetos.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GestaoProjetos.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoProjetos.Application.dll": {}
+        }
+      },
+      "GestaoProjetos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GestaoProjetos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoProjetos.Domain.dll": {}
+        }
+      },
+      "GestaoProjetos.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "GestaoProjetos.Application": "1.0.0",
+          "GestaoProjetos.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GestaoProjetos.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoProjetos.Infra.Data.dll": {}
+        }
+      },
+      "GestaoProjetos.Infra.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "GestaoProjetos.Application": "1.0.0",
+          "GestaoProjetos.Infra.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GestaoProjetos.Infra.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoProjetos.Infra.IoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoProjetos.Application/1.0.0": {
+      "type": "project",
+      "path": "../GestaoProjetos.Application/GestaoProjetos.Application.csproj",
+      "msbuildProject": "../GestaoProjetos.Application/GestaoProjetos.Application.csproj"
+    },
+    "GestaoProjetos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GestaoProjetos.Domain/GestaoProjetos.Domain.csproj",
+      "msbuildProject": "../GestaoProjetos.Domain/GestaoProjetos.Domain.csproj"
+    },
+    "GestaoProjetos.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../GestaoProjetos.Infra.Data/GestaoProjetos.Infra.Data.csproj",
+      "msbuildProject": "../GestaoProjetos.Infra.Data/GestaoProjetos.Infra.Data.csproj"
+    },
+    "GestaoProjetos.Infra.IoC/1.0.0": {
+      "type": "project",
+      "path": "../GestaoProjetos.Infra.IoC/GestaoProjetos.Infra.IoC.csproj",
+      "msbuildProject": "../GestaoProjetos.Infra.IoC/GestaoProjetos.Infra.IoC.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GestaoProjetos.Application >= 1.0.0",
+      "GestaoProjetos.Infra.IoC >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\claud\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
+      "projectName": "GestaoProjetos.WebUI",
+      "projectPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.WebUI\\GestaoProjetos.WebUI.csproj",
+      "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.WebUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://ccsembratel.pkgs.visualstudio.com/Multicom.Net/_packaging/HubPagamentos/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj": {
+              "projectPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Application\\GestaoProjetos.Application.csproj"
+            },
+            "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj": {
+              "projectPath": "C:\\Projetos\\GestaoProjetos\\GestaoProjetos\\GestaoProjetos.Infra.IoC\\GestaoProjetos.Infra.IoC.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
